@@ -59,7 +59,7 @@ export const introText = {
         text: ["NEXT.JS", "Rainbow Mode", "Portfolio Site"],
         title: "Next.js 포트폴리오(두번째 모드<무지개 컨셉>)",
         code: "https://github.com/astre2260-dotcom/port-next",
-        view: "https://nextjsport.netlify.app",
+        view: "https://nextjsports.netlify.app",
         info: [
             "NEXT.js portfolio",
             "use stack : Next.js, SCSS, Gsap",
